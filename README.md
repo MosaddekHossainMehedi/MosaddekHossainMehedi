@@ -1,4 +1,4 @@
-<h1 align="center">Hey there👋, it's MOSADDEK HOSSAIN MEHEDI</h1>
+<h1 align="center">Hey! 👋 it's MOSADDEK HOSSAIN MEHEDI</h1>
 <h3 align="center">An emerging programmer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mosaddekhossainmehedi&label=Profile%20views&color=0e75b6&style=flat" alt="mosaddekhossainmehedi" /> </p>
