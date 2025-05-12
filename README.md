@@ -11,7 +11,7 @@
 
 - 👨🏻‍💻 Currently learning **Javascript**
 
-- 🏗️ Tap to see my projects: [Github.com/MosaddekHossainMehedi](Github.com/MosaddekHossainMehedi)
+- 🫆 Tap to see my projects: [Github.com/MosaddekHossainMehedi](Github.com/MosaddekHossainMehedi)
 
 - 💬 Ask me about **C, C++,Java**
 
