@@ -17,8 +17,7 @@
 
 - 📩 Reach me through: **mosaddekhossainmehedi@students.diu.ac**
 
-- 📄 Know about my experiences: [https://www.canva.com/design/DAGg3l8Wq_I/OqJtKo4y-QUFCj--3WoiAQ/edit?utm_content=DAGg3l8Wq_I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGg3l8Wq_I/OqJtKo4y-QUFCj--3WoiAQ/edit?utm_content=DAGg3l8Wq_I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
+- 📄 Know about my experiences: https://www.canva.com/design/DAGg3l8Wq_I/RoKjPeAIM2K_-Q5HnVFCgw/view?utm_content=DAGg3l8Wq_I&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8363a2adad
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mosaddekmehedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mosaddekmehedi" height="30" width="40" /></a>
