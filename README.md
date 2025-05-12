@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mosaddekmehedi" target="blank"><img src="https://img.shields.io/twitter/follow/mosaddekmehedi?logo=twitter&style=for-the-badge" alt="mosaddekmehedi" /></a> </p>
 
-- 🔭 I’m currently pursuing graduation **in Computer Science & Engineering at Dhaka International University**
+- 🎓 Pursuing graduation **in Computer Science & Engineering at Dhaka International University**
 
 - 🌱 I’m currently learning **Javascript**
 
