@@ -9,9 +9,9 @@
 
 - 🎓 Pursuing graduation **in Computer Science & Engineering at Dhaka International University**
 
-- 🌱 I’m currently learning **Javascript**
+- 👨🏻‍💻 Currently learning **Javascript**
 
-- 🏗️ All of my projects are available at [Github.com/MosaddekHossainMehedi](Github.com/MosaddekHossainMehedi)
+- 🏗️ Tap to see my projects: [Github.com/MosaddekHossainMehedi](Github.com/MosaddekHossainMehedi)
 
 - 💬 Ask me about **C, C++,Java**
 
