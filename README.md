@@ -13,7 +13,7 @@
 
 - 🫆 Tap to see my projects: [Github.com/MosaddekHossainMehedi](Github.com/MosaddekHossainMehedi)
 
-- 💬 Ask me about **C, C++,Java**
+- 💬 Ask me about **C, C++, Java**
 
 - 📩 Reach me through: **mosaddekhossainmehedi@students.diu.ac**
 
