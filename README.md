@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 All of my projects are available at [Github.com/MosaddekHossainMehedi](Github.com/MosaddekHossainMehedi)
+- 🏗️ All of my projects are available at [Github.com/MosaddekHossainMehedi](Github.com/MosaddekHossainMehedi)
 
 - 💬 Ask me about **C, C++,Java**
 
-- 📫 Reach me through: **mosaddekhossainmehedi@students.diu.ac**
+- 📩 Reach me through: **mosaddekhossainmehedi@students.diu.ac**
 
 - 📄 Know about my experiences: [https://www.canva.com/design/DAGg3l8Wq_I/OqJtKo4y-QUFCj--3WoiAQ/edit?utm_content=DAGg3l8Wq_I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGg3l8Wq_I/OqJtKo4y-QUFCj--3WoiAQ/edit?utm_content=DAGg3l8Wq_I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
