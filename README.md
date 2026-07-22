@@ -20,7 +20,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header" width="100%"/>
 
-<h1>Hey! 👋 it's MOSADDEK HOSSAIN MEHEDI</h1>
+<h1>MOSADDEK HOSSAIN MEHEDI</h1>
 <h3>Thrive to Engineer Software Excellences</h3>
 
 <img src="https://komarev.com/ghpvc/?username=mosaddekhossainmehedi&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="mosaddekhossainmehedi" />
