@@ -21,7 +21,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header" width="100%"/>
 
 <h1>MOSADDEK HOSSAIN MEHEDI</h1>
-<h3>Thrive to Engineer Software Excellences</h3>
+<h3>Strive to Engineer Software Excellence</h3>
 
 <img src="https://komarev.com/ghpvc/?username=mosaddekhossainmehedi&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="mosaddekhossainmehedi" />
 
@@ -43,8 +43,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="30" width="30" style="margin:0 6px;"/>
 </p>
 <ul>
-<li>📧 Reach me through: <strong>MosaddekHossainMehedi@students.diu.ac</strong></li>
-<li>📄 Know about my experiences: <a href="https://www.canva.com/design/DAGg3l8Wq_I/RoKjPeAIM2K_-Q5HnVFCgw/view?utm_content=DAGg3l8Wq_I&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h8363a2adad">View on Canva</a></li>
+<li>📧 Reach me: <strong>MosaddekHossainMehedi@students.diu.ac</strong></li>
+<li>📄 Know more about me: <a href="https://www.canva.com/design/DAGg3l8Wq_I/RoKjPeAIM2K_-Q5HnVFCgw/view?utm_content=DAGg3l8Wq_I&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h8363a2adad">View on Canva</a></li>
 </ul>
 <p><br/></p>
 <h3 align="center">🌐 Connect with me</h3>
