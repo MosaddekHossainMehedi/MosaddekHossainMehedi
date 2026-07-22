@@ -30,7 +30,7 @@
 <p><br/></p>
 <h2>🚀 About Me</h2>
 <ul>
-<li>🎓 B. Sc in Computer Science &amp; Engineering from Dhaka International University</li>
+<li>🎓 B. Sc in Computer Science &amp; Engineering from DHAKA INTERNATIONAL UNIVERSITY</li>
 <li>🛠️ Languages worked on:</li>
 </ul>
 <p align="left">
