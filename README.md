@@ -44,7 +44,7 @@
 </p>
 <ul>
 <li>📧 Reach me: <strong>MosaddekHossainMehedi@students.diu.ac</strong></li>
-<li>📄 Know more about me: <a href="https://www.canva.com/design/DAGg3l8Wq_I/RoKjPeAIM2K_-Q5HnVFCgw/view?utm_content=DAGg3l8Wq_I&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h8363a2adad">View on Canva</a></li>
+<li>📄 To Know More: <a href="https://www.canva.com/design/DAGg3l8Wq_I/RoKjPeAIM2K_-Q5HnVFCgw/view?utm_content=DAGg3l8Wq_I&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h8363a2adad">View on Canva</a></li>
 </ul>
 <p><br/></p>
 <h3 align="center">🌐 Connect with me</h3>
