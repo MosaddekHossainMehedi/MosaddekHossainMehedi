@@ -3,10 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header" width="100%"/>
 
 <a href="#">
-<img src="https://readme-typing-svg.demolab.com/?font=TimesNewRoman&size=45&duration=3500&pause=50&repeat=false&center=true&vCenter=true&width=790&height=70&color=FFFFFF&lines=MOSADDEK+HOSSAIN+MEHEDI" alt="MOSADDEK HOSSAIN MEHEDI" />
+<img src="https://readme-typing-svg.demolab.com/?font=TimesNewRoman&size=50&duration=3500&pause=50&repeat=false&center=true&vCenter=true&width=790&height=70&color=FFFFFF&lines=MOSADDEK+HOSSAIN+MEHEDI" alt="MOSADDEK HOSSAIN MEHEDI" />
 </a>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Grand+Hotel&size=28&duration=4200&pause=10&repeat=false&center=true&vCenter=true&width=550&height=55&color=22C1C3&lines=Thrive+to+Engineer+Software+Excellences" alt="Thrive to Engineer Software Excellences" />
+<img src="https://readme-typing-svg.demolab.com/?font=RocaOne&size=20&duration=4200&pause=10&repeat=false&center=true&vCenter=true&width=600&height=55&color=22C1C3&lines=Thrive+to+Engineer+Software+Excellences" alt="Thrive to Engineer Software Excellences" />
 
 <p>
 👁️ <img src="https://komarev.com/ghpvc/?username=mosaddekhossainmehedi&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="mosaddekhossainmehedi" />
@@ -47,7 +47,7 @@
 
 <br/>
 
-<h3 align="center">🧰 Languages and Tools:</h3>
+<h3 align="center">🧰 Languages & Tools:</h3>
 <p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
 <br/>
