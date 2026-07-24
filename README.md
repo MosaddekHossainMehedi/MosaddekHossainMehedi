@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-- 🎓 B. Sc in Computer Science & Engineering from [Dhaka International University](https://diu.ac)
+- 🎓 B. Sc in Computer Science & Engineering from [DHAKA INTERNATIONAL UNIVERSITY](https://diu.ac)
 
 <h3 align="center">🛠️ Languages worked on</h3>
 <p align="center">
