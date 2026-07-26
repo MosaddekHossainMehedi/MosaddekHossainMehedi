@@ -16,7 +16,7 @@
 
 <br/>
 
-## 🚀 About Me
+## 
 
 - 🎓 B. Sc in Computer Science & Engineering from [DHAKA INTERNATIONAL UNIVERSITY](https://diu.ac)
 
@@ -29,6 +29,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="30" width="30" style="margin:0 6px;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="30" width="30" style="margin:0 6px;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="30" width="30" style="margin:0 6px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" height="30" width="30" style="margin:0 6px;"/>
 </p>
 
 <br/>
@@ -61,6 +62,8 @@
 </div>
 
 <br/>
+
+##
 
 - 📄 [Click to know more](https://www.canva.com/design/DAGg3l8Wq_I/RoKjPeAIM2K_-Q5HnVFCgw/view?utm_content=DAGg3l8Wq_I&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8363a2adad)
 
