@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.demolab.com/?font=TimesNewRoman&size=50&duration=3500&pause=50&repeat=false&center=true&vCenter=true&width=790&height=70&color=FFFFFF&lines=MOSADDEK+HOSSAIN+MEHEDI" alt="MOSADDEK HOSSAIN MEHEDI" />
 </a>
 
-<img src="https://readme-typing-svg.demolab.com/?font=RocaOne&size=20&duration=4200&pause=10&repeat=false&center=true&vCenter=true&width=600&height=55&color=22C1C3&lines=Thrive+to+Engineer+Software+Excellences" alt="Thrive to Engineer Software Excellences" />
+<img src="https://readme-typing-svg.demolab.com/?font=RocaOne&size=20&duration=4200&pause=10&repeat=false&center=true&vCenter=true&width=600&height=55&color=22C1C3&lines=Thrive+to+Engineer+Software+Excellences" alt="Thrive to Engineer Software Excellences." />
 
 <p>
 👁️ <img src="https://komarev.com/ghpvc/?username=mosaddekhossainmehedi&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="mosaddekhossainmehedi" />
@@ -30,6 +30,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="30" width="30" style="margin:0 6px;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="30" width="30" style="margin:0 6px;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" height="30" width="30" style="margin:0 6px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="LaTeX" height="30" width="30" style="margin:0 6px;"/>
 </p>
 
 <br/>
@@ -45,11 +46,6 @@
 <a href="https://codeforces.com/profile/mosaddekhossainmehedi" style="margin:0 10px;"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="35" width="35" style="margin:0 10px;" /></a>
 <a href="https://www.leetcode.com/mosaddekhossainmehedi" target="blank" style="margin:0 10px;"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="35" width="35" style="margin:0 10px;" /></a>
 </p>
-
-<br/>
-
-<h3 align="center">🧰 Languages & Tools:</h3>
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
 <br/>
 
