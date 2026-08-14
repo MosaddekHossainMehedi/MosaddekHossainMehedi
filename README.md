@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.demolab.com/?font=TimesNewRoman&size=50&duration=3500&pause=50&repeat=false&center=true&vCenter=true&width=790&height=70&color=FFFFFF&lines=MOSADDEK+HOSSAIN+MEHEDI" alt="MOSADDEK HOSSAIN MEHEDI" />
 </a>
 
-<img src="https://readme-typing-svg.demolab.com/?font=RocaOne&size=20&duration=4200&pause=10&repeat=false&center=true&vCenter=true&width=600&height=55&color=22C1C3&lines=Thrive+to+Engineer+Software+Excellences" alt="Thrive to Engineer Software Excellences." />
+<img src="https://readme-typing-svg.demolab.com/?font=RocaOne&size=20&duration=4200&pause=10&repeat=false&center=true&vCenter=true&width=600&height=55&color=22C1C3&lines=Thrive+to+Engineer+Software+Excellence." alt="Thrive to Engineer Software Excellences." />
 
 <p>
 👁️ <img src="https://komarev.com/ghpvc/?username=mosaddekhossainmehedi&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="mosaddekhossainmehedi" />
