@@ -35,7 +35,7 @@
 
 <br/>
 
-<h3 align="center">🌐 Connect with me</h3>
+<h3 align="center">🌐Let's Connect🤝</h3>
 <p align="center">
 <a href="mailto:MosaddekHossainMehedi@students.diu.ac" style="margin:0 10px;"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="email" height="35" width="35" style="margin:0 10px;" /></a>
 <a href="https://fb.com/mosaddekhossainmehedi" target="blank" style="margin:0 10px;"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="35" width="35" style="margin:0 10px;" /></a>
