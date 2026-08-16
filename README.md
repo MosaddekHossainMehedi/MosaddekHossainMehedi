@@ -31,6 +31,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="30" width="30" style="margin:0 6px;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" height="30" width="30" style="margin:0 6px;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="LaTeX" height="30" width="30" style="margin:0 6px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Shell Script" height="30" width="30" style="margin:0 6px;"/>
+<img src="https://img.shields.io/badge/Assembly-444444?style=for-the-badge" alt="Assembly" height="30" style="margin:0 6px;"/>
 </p>
 
 <br/>
@@ -40,6 +42,7 @@
 <a href="mailto:MosaddekHossainMehedi@students.diu.ac" style="margin:0 10px;"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="email" height="35" width="35" style="margin:0 10px;" /></a>
 <a href="https://fb.com/mosaddekhossainmehedi" target="blank" style="margin:0 10px;"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="35" width="35" style="margin:0 10px;" /></a>
 <a href="https://instagram.com/mosaddekhossainmehedi" target="blank" style="margin:0 10px;"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="35" width="35" style="margin:0 10px;" /></a>
+<a href="https://wa.me/MosaddekHossainMehedi" target="blank" style="margin:0 10px;"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="35" width="35" style="margin:0 10px;" /></a>
 <a href="https://twitter.com/mosaddekmehedi" target="blank" style="margin:0 10px;"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="35" width="35" style="margin:0 10px;" /></a>
 <a href="https://linkedin.com/in/mosaddekhossainmehedi" target="blank" style="margin:0 10px;"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="35" width="35" style="margin:0 10px;" /></a>
 <a href="https://www.youtube.com/@mosaddekhossainmehedi" target="blank" style="margin:0 10px;"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="35" width="35" style="margin:0 10px;" /></a>
